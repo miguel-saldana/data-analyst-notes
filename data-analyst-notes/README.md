@@ -33,9 +33,3 @@ This repository contains structured notes, code snippets, and practical examples
 ## Author
 
 Miguel Saldana
-
-
-
-About
-
-A structured repository of concepts, patterns, and reusable snippets for data analysis in Python and SQL with an industrial focus (maintenance and signaling) 
