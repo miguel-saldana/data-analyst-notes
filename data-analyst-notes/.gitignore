@@ -1,5 +1,12 @@
+# entorno virtual
 venv/
-.env/
+
+# python cache
 __pycache__/
 *.pyc
+
+# jupyter checkpoints
 .ipynb_checkpoints/
+
+# sistema
+.DS_Store
